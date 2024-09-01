@@ -1,0 +1,1 @@
+The project involves developing a Social Media Feeds Parser tool designed to assist in the investigation process by automatically parsing data from the social media accounts of suspects or accused individuals. The tool will support multiple platforms like Facebook, Twitter, Instagram, Telegram, WhatsApp, and Google accounts, with versions available for multiple platforms.
